@@ -1,4 +1,4 @@
-# Board-Server-Locust
+# Server-Test-Locust
 성능테스트 툴 (https://docs.locust.io/en/stable/index.html)
 
 1. 로커스트 설치. pip3 install locust
